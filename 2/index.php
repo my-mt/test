@@ -5,3 +5,4 @@ $detect = new Mobile_Detect;
 // поправил проблему 53
 
 require_once __DIR__ . '/default.php';
+// поправил в мастере 1
