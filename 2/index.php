@@ -6,3 +6,4 @@ $detect = new Mobile_Detect;
 
 require_once __DIR__ . '/default.php';
 // поправил в мастере 1
+// поправил в мастере 2
